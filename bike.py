@@ -1,3 +1,3 @@
-class bike:
-    def __init__(selfself,name):
+class Bike:
+    def __init__(self,name):
         self.name = name
